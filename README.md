@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @cspelius
-- 👀 I’m interested in map making!
+Hi!  I’m @cspelius
+I’m interested in map making!
 - reach me at cspelius@gmail.com
 
 <!---
